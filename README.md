@@ -12,4 +12,4 @@ Our user guided features allow the user to begin symbolic execution from any nod
 A screenshot of the complete window can be seen in the figure below:
 
 
-![Screenshot of the tool](https://github.com/paglums/GuidedSE/blob/master/images/README_screenshot.PNG)
+<img src="https://github.com/paglums/GuidedSE/blob/master/images/README_screenshot.PNG"  width="480px" height="300px"> 
